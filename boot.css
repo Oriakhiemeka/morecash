@@ -1,0 +1,24 @@
+body{
+	background-color:lightcyan
+}
+.container{
+	background-color: ghostwhite;border-radius: 10px;position:relative;top:150px;left:95px;padding:10px
+}
+.text{
+	width:1150px; height:50px; border-radius:5px
+}
+.password{
+	width:1150px; height:50px; border-radius:5px
+}
+.btn{
+	background-color: white
+}
+.nav{
+	background-color: orange;border-radius: 5px
+}
+.search{
+	color:orange; width:400px;height:35px;border-radius:10px;border-style:solid;border-width:1px;border-color:blue;position:relative;top:7px;left:100px
+}
+.progress-bar{
+	width:0%
+}

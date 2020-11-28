@@ -1,0 +1,20 @@
+.form{
+	width:400px
+}
+.container{
+	position:relative;left:20px
+}
+.form-cont{
+	text-align:right;
+}
+.form-cont1{
+	width:600px;
+	text-align:right;
+	padding:30px
+}
+.form1{
+	width:229px
+}
+.left{
+	text-align:left
+}

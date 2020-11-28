@@ -1,0 +1,29 @@
+.nav{
+	background-color:lightblue
+}
+.navbar-brand{
+	font-family:ink free
+}
+.search{
+	background-color: ghostwhite;
+	color: blue;
+	position:relative;top:13px;left:300px;
+	width:400px;height:30px;
+	border-style:solid;border-width:1px;border-radius:5px
+}
+.form-group{
+	position:relative;top:200px;left:900px;
+	background-color: ghostwhite;
+	width: 400px;
+	padding: 20px
+}
+.form-control{
+	color: blue
+}
+.btn{
+	color: ghostwhite;
+	position:relative;top:5px
+}
+#btn1{
+	position:relative;top:5px;left:220px
+}

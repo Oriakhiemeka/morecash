@@ -1,0 +1,29 @@
+.nav{
+	background-color:lightblue
+}
+.navbar-brand{
+	font-family:ink free
+}
+.search{
+	background-color: ghostwhite;
+	color: blue;
+	position:relative;top:13px;left:300px;
+	width:400px;height:30px;
+	border-style:solid;border-width:1px;border-radius:5px
+}
+.form-group{
+	position:relative;top:100px;left:425px;
+	width:500px;
+	background-color:ghostwhite;
+	padding:10px;
+}
+.form-control{
+	color:blue
+}
+.data{
+	position:relative;top:-60px;left:300px;
+}
+#in{
+	border-radius:5px;border-width:1px;border-color:gainsboro;
+	width:180px;height:30px;
+}

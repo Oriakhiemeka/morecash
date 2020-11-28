@@ -1,0 +1,93 @@
+#jine{
+	background-color:lightcyan
+}
+#menu{
+	width: 25px;
+	height: 3px;
+	background-color: white;
+	margin: 5px 0px;position:relative;top:0px
+}
+.jin{
+	background-color:orange;width:100%;padding:15px
+}
+#jin1{
+	font-size:30px;padding:10px;color:white;width:170px;;position:absolute;left:100px;top:12px
+}
+#jin0{
+	font-size:30px;padding:10px;color:white;width:170px;;position:absolute;left:150px;top:12px
+}
+#jin2{
+	position:absolute;left:450px;top:20px
+}
+#input{
+	width:400px;padding:10px;border-radius:5px;border-style:solid;border-color:white
+}
+.jin3{
+	padding:9px;border-radius:5px;width:306px;position:relative;top:50px;left:50px;background-color:orange
+}
+.cat1{
+	padding:9px;width:306px;position:relative;top:50px;left:50px;background-color:white
+}
+#cat{
+	background-color:white;color:dimgray
+}
+#jin4{
+	color:white;font-size:20px;text-align:left
+}
+.jin6{
+	background-color:white;position:relative;top:70px;left:51px;width:322px;height:90px;color:dimgray
+}
+#jin9{
+	position:relative;top:7px;left:10px;color:dimgray
+}
+.jin8{
+	background-color:white;position:relative;top:85px;left:51px;width:322px;height:420px;color:dimgray
+}
+#jin7{
+	position:relative;top:25px;left:10px;color:dimgray
+}
+#in{
+	width:300px;height:40px;border-style:solid;border-width:1px;border-color:orange;font-size:15px;border-radius:5px;background-color:lightcyan;color:dimgray
+}
+.side{
+	width:900px;height:250px;position:absolute;top:220px;left:395px;background-color:white;color:dimgray
+}
+.side img{
+	width:250px;height:250px;position:absolute;top:0px;left:0px;color:dimgray
+}
+#pics{
+	position:absolute;top:10px;left:270px;font-size:23px;color:dimgray
+}
+#pics1{
+	position:absolute;top:25px;left:270px;font-size:15px;color:dimgray
+}
+#pics2{
+	position:absolute;top:50px;left:270px;font-size:18px;color:dimgray;background-color:lightcyan;padding:8px;border-radius:5px
+}
+#pics3{
+	position:absolute;top:50px;left:358px;font-size:18px;color:dimgray;background-color:lightcyan;padding:8px;border-radius:5px
+}
+#pics4{
+	position:absolute;top:-20px;left:810px;font-size:23px;color:limegreen
+}
+.side1{
+	width:900px;height:250px;position:absolute;top:480px;left:395px;background-color:white;color:dimgray
+}
+.side1 img{
+	width:250px;height:250px;position:absolute;top:0px;left:0px;color:dimgray
+}
+#pics5{
+	position:absolute;top:10px;left:270px;font-size:23px;color:dimgray
+}
+#pics6{
+	position:absolute;top:25px;left:270px;font-size:15px;color:dimgray
+}
+#pics7{
+	position:absolute;top:50px;left:270px;font-size:18px;color:dimgray;background-color:lightcyan;padding:8px;border-radius:5px
+}
+#pics8{
+	position:absolute;top:50px;left:358px;font-size:18px;color:dimgray;background-color:lightcyan;padding:8px;border-radius:5px
+}
+#pics9{
+	position:absolute;top:-20px;left:810px;font-size:23px;color:limegreen
+}

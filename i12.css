@@ -1,0 +1,80 @@
+.nav{
+	background-color:seagreen
+}
+.navbar-brand{
+	font-family:ink free
+}
+a{
+	color:white
+}
+.butn{
+	width:120px;
+	padding:5px;
+	position:relative;top:8px;
+	border-radius:5px;border-style:solid;border-width:1px;
+	background-color:lightseagreen;color:white
+}
+.img{
+	width:1500px;height:800px
+}
+.form-control{
+	width:500px;
+	position:relative;top:10px;left:5px
+}
+.text{
+	background-color:white;
+	position:relative;top:-200px;left:370px;
+	width:610px;height:50px
+}
+.btn1{
+	width:95px;
+	height:35px;
+	position:relative;left:250px;top:-24px;
+	background-color:seagreen;
+	border-style:solid;border-width:0px;
+	color:white;
+}
+.head{
+	position:relative;top:-200px;
+	color:white
+}
+.div{
+	position:relative;top:-70px
+}
+.disc{
+	width:1100px;text-align:center;
+	position:relative;left:120px;top:50px
+}
+img{
+	width:350px;height:300px;
+}
+.row{
+	width:1150px;position:absolute;top:800px;left:110px
+}
+.row1{
+	width:1150px;position:absolute;top:1140px;left:95px
+}
+.row2{
+	padding-left:100px;padding-right:100px;
+	padding-top:50px;padding-bottom:0px;
+	position:absolute;top:1600px;left:0px;
+	background-color:lightgrey;width:1349px
+}
+.btn{
+	position:relative;left:262px
+}
+#dol{
+	background-color:white;padding:10px;width:370px;height:530px
+}
+.responsive{
+	text-align:center
+}
+#fct{
+	color:white;position:relative;top:-170px;left:150px
+}
+#prop{
+	color:green;text-align:left;position:relative;left:1070px;top:50px
+}
+
+
+
